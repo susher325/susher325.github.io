@@ -1,3 +1,16 @@
 h1 { text-align: center; }
-body { background-color: #2EB4C2; }
+body { 
+	background-color: #E9967A; 
+	border: 5px double magenta;
+}
 .headshot { text-align: center; }
+.alignleft {
+	float: left;
+	font-size: 30px;
+	margin-left: 20px;
+}
+.alignright {
+	float: right;
+	font-size: 30px;
+	margin-right: 20px;
+}

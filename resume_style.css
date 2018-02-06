@@ -1,2 +1,15 @@
-.header { text-align: center; }
-.block { line-height: 5px; }
+.header { 
+	margin-top: 50px;
+	text-align: center; 
+	line-height: 5px;
+}
+.block { 
+	margin-bottom: 30px;
+}
+
+h2{ 
+	line-height: 10px; 
+}
+h4{
+	margin: 0;
+}
