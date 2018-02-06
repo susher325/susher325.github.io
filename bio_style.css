@@ -1,7 +1,6 @@
 h1 { 
 	text-align: center;
-	margin-top: 30px;
-	margin-bottom: 30px;
+	padding: 20px;
 	border-style: solid;
 	border-color: blue;
 	border-radius: 5px;
